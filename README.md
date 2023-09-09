@@ -21,6 +21,7 @@ CAT
 CAT
 CAT
 CAT
+(https://github.com/NormNik/CatBot/assets/127588202/9bedf4f4-3ed6-469e-8c18-f1b189fc7296)
 CAT
 CAT
 CAT
